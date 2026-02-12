@@ -1,5 +1,7 @@
 # Snowplow iOS Dating Demo - Snowtype Integration
 
+> **Disclaimer:** This project is not officially supported by Snowplow Analytics. It is provided solely for demonstration and learning purposes. Use at your own discretion.
+
 This demo app showcases how to integrate **Snowtype** into an iOS (SwiftUI) project using the **Snowplow iOS Tracker**. Snowtype generates type-safe Swift structs and enums from your Data Product schemas defined in the Snowplow Console, giving you compile-time validation of your tracking implementation.
 
 ## Table of Contents

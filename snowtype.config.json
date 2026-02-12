@@ -4,9 +4,9 @@
   "repositories": [],
   "eventSpecificationIds": [],
   "dataProductIds": [
-    "cc74c64e-b8ba-4532-b3f7-0668fbf03186"
+    "<your-tracking-plan-id>"
   ],
-  "organizationId": "3883f10d-d184-4c33-af53-32ae57aaf14b",
+  "organizationId": "<your-org-id>",
   "tracker": "snowplow-ios-tracker",
   "language": "swift",
   "outpath": "./snowtype"
